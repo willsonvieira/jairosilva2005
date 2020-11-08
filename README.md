@@ -2,12 +2,12 @@
 
 &nbsp;
 
-#Estudo Desenvolvimento de sites e Linguagens de programação
+Estudo Desenvolvimento de sites e Linguagens de programação
 
 &nbsp;
 
-#Linguagens: Python, Java, JavaScript, C++
+Linguagens: Python, Java, JavaScript, C++
 
 &nbsp;
 
-#Web: HTML5 e CSS3
+Web: HTML5 e CSS3
