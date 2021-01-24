@@ -1,5 +1,3 @@
-### Olá, meu nome é Jairo.
-
 &nbsp;
 Estudo Desenvolvimento de sites e Linguagens de programação
 
