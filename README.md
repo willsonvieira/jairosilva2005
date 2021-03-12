@@ -2,7 +2,7 @@
 <p align="center">Learn Front-end and Back-end development 🚀</p>
 
 ## Languages of Back-end development
-- f1c0 SQL/Databases (Learning)
+- SQL/Databases (Learning)
 - C/C++
 - PHP/PDO (Learning)
 ## Languages of Front-end development
