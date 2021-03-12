@@ -3,7 +3,7 @@
 
 ## Languages of Back-end development
 - SQL/Databases (Learning)
-- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20px" />C/C++
+- C/C++
 - PHP/PDO (Learning)
 ## Languages of Front-end development
 - JavaScript (Learning React.js)
