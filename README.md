@@ -2,7 +2,12 @@
 <p align="center">Learn Front-end and Back-end development 🚀</p>
 
 ## Languages of Back-end development
-<h1 bgcolor="#000000" color="#ffffff">C/C++</h1>
+- SQL/Databases
+- C/C++
+- PHP/PDO (Learning)
+## Languages of Front-end development
+- JavaScript (Learning React.js)
+- HTML/CSS
 
 ## Social Media
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jairosilva2005)
