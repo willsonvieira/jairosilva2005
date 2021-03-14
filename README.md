@@ -5,6 +5,7 @@
 - SQL/Databases (Learning)
 - C/C++
 - PHP/PDO (Learning)
+- Java/POO (Learning)
 ## Languages of Front-end development
 - JavaScript (Learning React.js)
 - HTML/CSS
