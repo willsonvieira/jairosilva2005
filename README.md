@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/jairosilva2005">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jairosilva2005&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&langs_count=8&theme=cobalt2"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
 ## Social Media
