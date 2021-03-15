@@ -12,6 +12,7 @@
 
 ## Operating System I use:
 - Linux Debian 10 Buster
+- I also use Linux Terminal
 
 <div>
   <a href="https://github.com/jairosilva2005">
