@@ -10,6 +10,8 @@
 - JavaScript (Learning React.js)
 - HTML/CSS
 
+## Operating System I use:
+- Linux Debian 10 Buster
 
 <div>
   <a href="https://github.com/jairosilva2005">
