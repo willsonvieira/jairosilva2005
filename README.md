@@ -2,7 +2,7 @@
 <p align="center">Learn Front-end and Back-end development 🚀</p>
 
 ## Back-end development languages
-- SQL/Databases (Learning)
+- MySQL/Databases (Learning)
 - PHP/PDO (Learning)
 - Python (Learning)
 - Java/POO (Learning)
