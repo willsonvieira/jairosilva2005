@@ -4,7 +4,7 @@
 ## Languages of Back-end development
 - SQL/Databases (Learning)
 - PHP/PDO (Learning)
-- Python(Learning)
+- Python (Learning)
 - Java/POO (Learning)
 ## Languages of Front-end development
 - JavaScript (Learning React.js)
