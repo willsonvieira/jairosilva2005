@@ -3,7 +3,6 @@
 
 ## Languages of Back-end development
 - SQL/Databases (Learning)
-- C/C++
 - PHP/PDO (Learning)
 - Java/POO (Learning)
 ## Languages of Front-end development
