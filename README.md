@@ -14,7 +14,6 @@
 - Linux Debian 10 Buster
 - I also use Linux Terminal
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact)](https://github.com/jairosilva2005/github-readme-stats)
 ![JairoSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=radical)
 
 
