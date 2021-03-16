@@ -1,12 +1,13 @@
 <h1 align="center">Jairo Silva</h1>
 <p align="center">Learn Front-end and Back-end development 🚀</p>
 
-## Languages of Back-end development
+## Back-end development languages
 - SQL/Databases (Learning)
 - PHP/PDO (Learning)
 - Python (Learning)
 - Java/POO (Learning)
-## Languages of Front-end development
+
+## Front-end development languages
 - JavaScript (Learning React.js)
 - HTML/CSS
 
