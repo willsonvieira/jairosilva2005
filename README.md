@@ -15,8 +15,10 @@
 - Linux Debian 10 Buster
 - I also use Linux Terminal
 
+<div style="display: grid;">
 ![JairoSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact)](https://github.com/jairosilva2005/github-readme-stats)
+</div>
 
 ## Social Media
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jairosilva2005)
