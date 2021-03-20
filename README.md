@@ -3,9 +3,9 @@
 
 ## Back-end development languages
 - MySQL/Databases (Learning)
-- PHP/PDO (Learning)
+- PHP/PDO (Learning CRUD)
 - Python (Learn bot and game development)
-- Java/POO (Learning)
+- Java (Learning POO)
 
 ## Front-end development languages
 - JavaScript (Learning React.js)
