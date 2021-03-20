@@ -8,7 +8,7 @@
 - Java (Learning POO)
 
 ## Front-end development languages
-- JavaScript (Learning React.js)
+- JavaScript (Learn)
 - HTML/CSS
 
 ## Operating System I use:
