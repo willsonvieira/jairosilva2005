@@ -16,8 +16,8 @@
 - I also use Linux Terminal
 
 <div style="display:flex;flex-wrap:no-wrap;">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=default" />
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact)](https://github.com/jairosilva2005/github-readme-stats" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=default" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact)](https://github.com/jairosilva2005/github-readme-stats" />
 </div>
 
 ## Social Media
