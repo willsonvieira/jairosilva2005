@@ -16,6 +16,7 @@
 - I also use Linux Terminal
 
 ![JairoSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=default)
+<img height="80px" src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=default" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact)](https://github.com/jairosilva2005/github-readme-stats)
   
 ## Social Media
