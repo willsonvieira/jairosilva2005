@@ -15,9 +15,9 @@
 - Linux Debian 10 Buster
 - I also use Linux Terminal
 
-<div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=default" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact)](https://github.com/jairosilva2005/github-readme-stats" />
+<div style="display:flex;flex-wrap:no-wrap;">
+  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=default" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact)](https://github.com/jairosilva2005/github-readme-stats" />
 </div>
 
 ## Social Media
