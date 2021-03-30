@@ -9,7 +9,7 @@
 
 ## Front-end development languages
 - JavaScript (Learn)
-- HTML/CSS
+- HTML5/CSS3
 
 ## Operating System I use:
 - Linux Debian 10 Buster
