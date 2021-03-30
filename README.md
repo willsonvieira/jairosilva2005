@@ -4,7 +4,7 @@
 ## Back-end development languages
 - MySQL/Databases (Learning)
 - PHP/PDO (Learning CRUD)
-- Python (Learn Pygame)
+- Python (Learn)
 - Java (Learning POO)
 
 ## Front-end development languages
